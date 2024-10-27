@@ -161,12 +161,12 @@ skills:
         icon: camera
 
 languages:
+  - name: Arabic
+    percent: 95
   - name: English
-    percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+    percent: 80
+  - name: Russian
+    percent: 85
 
 # Awards.
 #   Add/remove as many awards below as you like.
