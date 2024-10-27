@@ -35,8 +35,6 @@ profiles:
     label: E-mail Me
   - icon: brands/whatsapp
     url: https://wa.me/971545642602
-  - icon: brands/instagram
-    url: https://www.instagram.com/
   - icon: brands/github
     url: https://github.com/adnan-ahf
   - icon: brands/linkedin
@@ -48,41 +46,62 @@ profiles:
 
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Numerical methods
+  - Computer modelling
+  - Antennas
+  - Electromagnetic compatibility
+  - Teaching
 
 education:
   - area: PhD Electronics and Communications Engineering (RADIO ENGINEERING)
     institution: Tomsk State University of Control Systems and Radioelectronics
-    date_start: 2019-10-16
-    date_end: 2023-10-16
+    date_start: 2024-04-25
     summary: |
-      The thesis is devoted to the development and software implementation of mathematical models for designing and modeling of passive microwave devices and antenna. Supervised by [Prof Talgat R. Gazizov](https://directory.tusur.ru/en/people/1941). Presented papers at many IEEE conferences with the contributions being published in several journals.
+      The thesis is devoted to the development and software implementation of mathematical models for designing and modeling of passive microwave devices and antenna. Supervised by Prof Talgat R. Gazizov (https://directory.tusur.ru/en/people/1941). Presented papers at many IEEE conferences with the contributions being published in several journals.
     button:
       text: 'Read Thesis'
       url: 'https://postgraduate.tusur.ru/system/file_copies/files/000/003/789/original/%D0%90%D0%BB%D1%85%D0%B0%D0%B4%D0%B6_%D0%94%D0%B8%D1%81%D1%81%D0%B5%D1%80%D1%82%D0%B0%D1%86%D0%B8%D1%8F.pdf'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  
+  - area: Postgraduated Diploma Electronics and Communications Engineering (RADIO ENGINEERING)
+    institution: Tomsk State University of Control Systems and Radioelectronics
+    date_start: 2019-10-16
+    date_end: 2023-10-15
     summary: |
-      GPA: 3.8/4.0
+      GPA: 4.0/4.0
+
+  - area: M.SC. Electronics and Communications Engineering (RADIO ENGINEERING)
+    institution: Tambov State Technical University
+    date_start: 2017-09-01
+    date_end: 2019-06-15
+    summary: |
+      GPA: 3.6/4.0
 
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      - Mathimatical Modeling of Radio Devices and Systems
+      - Fundamentals of Coding and Encryption Theory in Modern Radio Engineering Systems
+      - Fiber Optic Communication Lines and Networks
+      - Satellite Information Transfer System
+      - Electromagnetic Compatibility of Radio Electronic Means
+  
+  - area: B.Sc. Information and Communication Technology Engineering
+    institution: University of Tartous
+    date_start: 2009-09-01
+    date_end: 2015-06-15
     summary: |
-      GPA: 3.4/4.0
+      GPA: 3.2/4.0
       
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Networking
+      - Artifical itelligence
+      - Cellular Communications
+      - Microwaves
+      - Electromagnetic Compatibility
+      - Radar and Sonar Engineering
+      - Space Communication Systems
+      - Antennas and Wave Popagation
+      - Programming languages (C++, Java)
+      - Electric and Electronic Engineering
+      - Web Services and Internet Protocols
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
@@ -90,14 +109,14 @@ work:
     company_logo: ''
     date_start: 2021-01-01
     date_end: ''
-    summary: |2-
+    summary: |
       Responsibilities include:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - position: Backend Software Engineer
     company_name: X
-    company_url: ''
+    company_url: https://tusur.ru/en
     company_logo: ''
     date_start: 2016-01-01
     date_end: 2020-12-31
@@ -113,16 +132,16 @@ skills:
   - name: Technical Skills
     items:
       - name: Python
-        description: ''
-        percent: 80
+        description: coding
+        percent: 50
         icon: code-bracket
       - name: Data Science
-        description: ''
+        description: Basics
         percent: 100
         icon: chart-bar
       - name: SQL
         description: ''
-        percent: 40
+        percent: 10
         icon: circle-stack
   - name: Hobbies
     color: '#eeac02'
